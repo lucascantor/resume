@@ -1,6 +1,6 @@
 # gitignore
 
-Custom .gitignore template
+Version history of my [resume](https://cdn.lucascantor.com/lucas-cantor-resume.pdf)
 
 ## Contributing workflow
 
