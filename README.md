@@ -1,4 +1,4 @@
-# gitignore
+# Resume
 
 Version history of my [resume](https://cdn.lucascantor.com/lucas-cantor-resume.pdf)
 
